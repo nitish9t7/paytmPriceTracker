@@ -20,6 +20,8 @@ After installed required package , you can use it by python priceTracker.py
 Python 3
 requests
 smtplib
+time
+bs4
 # Future feature
 1. Direct message notification via Twitter
 2. Direct message notification via Telegram

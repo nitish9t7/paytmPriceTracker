@@ -2,7 +2,7 @@ import time
 import requests
 from bs4 import BeautifulSoup
 import smtplib
-URL = input('Enter The Product URL')    //URL ot Product
+URL = input('Enter The Product URL')    //URL of Product
 header = {
     "User-Agent": 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
 to = input("To : ")                     //Email of Reciever

@@ -36,4 +36,4 @@ def sendMail():
     print('sent')
 while(True):                                                   //checking at Specified interval of time
     check()
-    time.sleep(3)						//Sleep
+    time.sleep(3)						//Sleep for Aiwain
